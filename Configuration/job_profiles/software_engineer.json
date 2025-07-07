@@ -1,0 +1,22 @@
+{
+  "job_id": "SE_001",
+  "title": "Senior Software Engineer",
+  "department": "Engineering",
+  "location": "Remote/Hybrid",
+  "required_skills": {
+    "programming_languages": ["Python", "JavaScript", "Java"],
+    "frameworks": ["React", "Django", "Spring"],
+    "databases": ["PostgreSQL", "MongoDB"],
+    "cloud_platforms": ["AWS", "Azure", "GCP"],
+    "tools": ["Git", "Docker", "Kubernetes"]
+  },
+  "experience": {
+    "minimum_years": 3,
+    "maximum_years": 8,
+    "level": "Senior"
+  },
+  "education": {
+    "minimum_degree": "Bachelor's",
+    "preferred_fields": ["Computer Science", "Software Engineering"]
+  }
+}

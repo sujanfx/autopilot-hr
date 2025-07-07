@@ -1,0 +1,44 @@
+John Doe
+Senior Software Engineer
+john.doe@email.com | (555) 123-4567
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5+ years of experience in full-stack development. Proven track record of building scalable web applications using modern technologies.
+
+EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2020 - Present
+- Developed scalable web applications using Python (Django) and React
+- Implemented CI/CD pipelines using Docker, Kubernetes, and AWS
+- Led a team of 3 junior developers and conducted code reviews
+- Reduced application load time by 40% through optimization
+- Designed microservices architecture serving 100K+ daily users
+
+Software Engineer | StartupXYZ | Jun 2018 - Dec 2019
+- Built REST APIs using Django and PostgreSQL
+- Collaborated with cross-functional teams to deliver features
+- Implemented automated testing strategies, improving coverage to 85%
+- Migrated legacy monolith to microservices architecture
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2013-2017
+GPA: 3.7/4.0
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, TypeScript, Go
+Frameworks & Libraries: Django, React, Node.js, Express, FastAPI
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud Platforms: AWS (EC2, S3, RDS, Lambda), Azure, Google Cloud
+DevOps & Tools: Docker, Kubernetes, Git, Jenkins, Terraform
+
+PROJECTS
+E-Commerce Platform (2022)
+- Built full-stack e-commerce application using Django and React
+- Implemented payment processing with Stripe API
+- Deployed on AWS with auto-scaling capabilities
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect (2022)
+- Certified Kubernetes Administrator (2021)

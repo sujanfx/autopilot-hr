@@ -1,0 +1,39 @@
+Jane Smith
+Data Scientist
+jane.smith@email.com | (555) 987-6543
+New York, NY
+
+PROFESSIONAL SUMMARY
+Data scientist with 4 years of experience in machine learning and statistical analysis. Expertise in Python, R, and various ML frameworks.
+
+EXPERIENCE
+
+Senior Data Scientist | DataCorp Analytics | Mar 2021 - Present
+- Built predictive models using Python improving customer retention by 15%
+- Created interactive dashboards using Tableau and Power BI
+- Implemented A/B testing framework increasing conversion rates by 12%
+- Collaborated with engineering teams to deploy ML models in production
+
+Data Scientist | Analytics Inc | Jul 2019 - Feb 2021
+- Analyzed large datasets (>1M records) using SQL and Python
+- Developed recommendation system using collaborative filtering
+- Created automated reporting pipelines reducing manual work by 60%
+
+EDUCATION
+Master of Science in Data Science
+Stanford University | 2016-2018
+
+Bachelor of Science in Statistics
+University of Michigan | 2012-2016
+Magna Cum Laude, GPA: 3.8/4.0
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, SQL, MATLAB
+Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost
+Data Manipulation: Pandas, NumPy, dplyr, tidyr
+Visualization: Tableau, Power BI, matplotlib, seaborn
+Cloud Platforms: AWS (SageMaker, S3, Redshift), Azure ML
+
+CERTIFICATIONS
+- Google Cloud Professional Data Engineer (2022)
+- Tableau Desktop Specialist (2021)

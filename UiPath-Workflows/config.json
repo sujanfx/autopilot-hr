@@ -1,0 +1,20 @@
+{
+  "ai_service": {
+    "base_url": "http://localhost:8001",
+    "timeout_seconds": 30
+  },
+  "email": {
+    "server": "outlook.office365.com",
+    "port": 993,
+    "inbox_folder": "Inbox",
+    "processed_folder": "Processed"
+  },
+  "file_processing": {
+    "supported_formats": [".pdf", ".docx", ".doc", ".txt"],
+    "max_file_size_mb": 10
+  },
+  "thresholds": {
+    "minimum_match_score": 0.60,
+    "interview_threshold": 0.70
+  }
+}
